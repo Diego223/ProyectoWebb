@@ -1,0 +1,194 @@
+* {
+    box-sizing: border-box;
+}
+BODY {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+    background-color: #F4F4F4;
+    background-image: url(background.png);
+    background-repeat: repeat;
+    overflow: hidden;
+
+}
+DIV.Cubo {
+    clear:both;
+    max-width: 948px;
+    text-align: center;
+    padding: 7px 0px 7px 0px;
+    margin-bottom: 25px;
+    height: 130px;
+    width: 10px;
+}
+Div.Cubo:hover{
+    transform: scale(1.1);
+
+}
+#cubo15:hover{
+    transform: scale(1.1);
+
+}
+#Cubo1{
+    position:fixed; left:450px; top:170px; 
+
+}
+#Cubo2{
+    position:fixed; left:450px; top:325px; 
+
+}
+#Cubo3{
+    position:fixed; left:450px; top:480px; 
+
+}
+#Cubo4{
+    position:fixed; left:600px; top:325px; 
+
+}
+#Cubo5{
+    position:fixed; left:600px; top:170px; 
+
+}
+#Cubo6{
+    position:fixed; left:600px; top:480px; 
+
+}
+#Cubo7{
+    position:fixed; left:750px; top:170px; 
+
+}
+#Cubo8{
+    position:fixed; left:750px; top:325px; 
+
+}
+#Cubo9{
+    position:fixed; left:750px; top:480px; 
+
+}
+#Cubo10{
+    position:fixed; left:900px; top:170px; 
+
+}
+#Cubo11{
+    position:fixed; left:900px; top:325px; 
+
+}
+#Cubo12{
+    position:fixed; left:900px; top:480px; 
+
+}
+#Cubo13{
+    position:fixed; left:1050px; top:170px; 
+
+}
+#Cubo14{
+    position:fixed; left:1050px; top:325px; 
+
+}
+#Cubo15{
+    position:fixed; left:1050px; top:480px; 
+
+}
+
+
+#SolidB{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 28px;
+    color: #000000;
+    text-decoration: none;
+
+    float: left;
+    max-width: 300px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 45px;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+
+}
+#SolidC,#FreeWeb,#Downloads{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 16.5px;
+    color: #000000;
+    float: left;
+    max-width: 270px;
+    text-align: left;
+    margin-left: 45px;
+    padding-top: 20px;
+    margin-bottom: 100px;
+    font-weight: bold;
+}
+#SolidC:hover,#FreeWeb:hover,#Downloads:hover,#SolidB:hover{
+    color: tomato;
+    text-decoration: underline;
+
+
+}
+div.Texto{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+    position:fixed; left:350px; top:65px; 
+    width:50%;
+    
+
+
+
+}
+.TextoBajo{
+    position:fixed; left:560px; top: 640px; 
+    
+
+}
+#Right{
+    float:right;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    float: left;
+    font-weight: bold;
+    
+
+}
+#Right:hover{
+    color: tomato;
+    text-decoration: underline;
+
+}
+#Left{
+    float: left;
+    margin-right: 5px;
+}
+#SolidCB{
+    clear: both;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    padding: 7px;
+    font-weight: bold;
+
+
+}
+#Collection{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+}
+
+body{
+    margin-left:300px;
+}
+#Cubo14:hover{
+    transform: scale(1.1);
+
+}
